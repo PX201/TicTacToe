@@ -23,7 +23,7 @@ Tic Tac Toe is a simple command-line game implemented in Java. It allows two pla
 
 ## Requirements
 
-- Java Development Kit (JDK) 8 or later
+- Java Development Kit (JDK) 17 or later
 
 ## How to Run
 
